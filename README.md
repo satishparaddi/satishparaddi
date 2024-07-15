@@ -4,6 +4,12 @@
 
 I am a graduate student pursuing a Master of Science in Information Systems at Northeastern University, with an expected graduation date in May 2025. I have a Bachelor of Engineering in Electrical and Electronics Engineering from M S Ramaiah Institute of Technology.
 
+## Work Experience
+
+### Mphasis
+**Role:** Software Engineer  
+**Duration:** 2 years  
+
 ## Skills
 
 - **Programming Languages:** Python, JavaScript, Java, C#
