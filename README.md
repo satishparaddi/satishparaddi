@@ -1,56 +1,104 @@
-# Hi there, I'm Satish Mallikarjun Paraddi 👋
+# 👋 Hi, I'm Satish Mallikarjun Paraddi
 
-## About Me
+### AI Engineer • Full-Stack Developer • Cloud Engineer  
+Building intelligent systems with React, Python, LangGraph, and scalable cloud architectures.
 
-I am a graduate student pursuing a Master of Science in Information Systems at Northeastern University, with an expected graduation date in May 2025. 
-## Work Experience
+---
 
-### Mphasis
-**Role:** Software Engineer  
-**Duration:** 2 years  
+## 🚀 Tech Stack
 
-## Skills
+**Languages:** Python • JavaScript • Java • C#  
+**Frontend:** React.js, HTML, CSS  
+**Backend:** Node.js, Express.js, Java Spring Boot  
+**Cloud:** Google Cloud (ACE), AWS, Docker, Kubernetes  
+**AI / GenAI:** LangChain, LangGraph, Pinecone, RAG, Agents, LLM Tool-Calling  
+**Databases:** PostgreSQL, MongoDB, MySQL  
+**Tools:** Git, GitHub Actions, GitLab CI/CD, Kafka  
+**Testing:** JUnit, Selenium, Jest, TestNG, Cucumber  
 
-- **Programming Languages:** Python, JavaScript, Java, C#
-- **Web Development:** HTML, CSS, React.js, Node.js, Express.js, ASP.NET
-- **Databases:** MySQL, MongoDB, PostgreSQL, Oracle
-- **Cloud Services:** Google Cloud (Associate Cloud Engineer), AWS
-- **Tools and Technologies:** Docker, Kubernetes, Git, Jenkins, Apache Kafka, Spring Framework
-- **Testing Frameworks:** JUnit, Selenium, TestNG, Jest, Cucumber
+---
 
-## Projects
+# 🔥 Featured Projects
 
+---
 
+# 💳 Verifi — Offline Peer-to-Peer Payment Verification  
+📌 Repo: https://github.com/abgneudev/verifi  
 
-### Expertease
-A platform that connects experts with individuals seeking advice in various fields. Users can book sessions with experts, make payments, and leave reviews.
+**Demo:**  
+![Verifi Demo](./assets/verifi-demo.gif)
 
-### PetConnect
-A social networking site for pet owners to connect, share experiences, and find pet services. It includes features like pet profiles, service listings, and a community forum.
+**What I built:**  
+- Offline verification protocol (Bluetooth + QR exchange)  
+- Python backend for cryptographic validation  
+- AI-based proof checking  
+- Full integration with Flutter client  
 
-### E-commerce Management System
-A comprehensive system for managing an e-commerce business, including inventory management, order processing, customer management, and reporting tools.
+---
 
-### MediRescue
-A healthcare application that connects patients with emergency medical services and nearby hospitals. It includes real-time tracking, appointment scheduling, and medical record management.
-### Web-Based Messaging Application
-A web-based messaging application similar to WhatsApp Web, developed using Python and a modern JavaScript framework.
+# 🧠 Multi-Agent Research Assistant (LangGraph + Pinecone + Snowflake)  
+📌 Repo: https://github.com/satishparaddi/MultiAgent-RAG  
+📹 Demo Video: https://drive.google.com/file/d/1t5IDI6mKTD-oxKhGdWrRxHmNsQs4JnjP/view  
 
-### Event Scheduling and Management Platform
-A platform for scheduling and managing events using a microservices architecture.
+**Demo (GIF):**  
+![MultiAgent Demo](./assets/multiagent-demo.gif)
 
-## Certifications
+**What I built:**  
+- LangGraph-based multi-agent orchestration  
+- Retrieval + reasoning agents  
+- Pinecone vector search pipeline  
+- Snowflake integration  
+- End-to-end RAG architecture  
 
-- Google Cloud Associate Cloud Engineer
+---
 
-## Contact
+# 💬 Expertease — Expert Booking Platform  
+📌 Repo: https://github.com/satishparaddi/ExpertEase  
+📹 Demo Video: https://drive.google.com/file/d/1Rc-XL6JkRQbcib-0-kT_aHwe7s2u3Sds/view  
 
-- **Email:** [paraddi.s@northeastern.edu](mailto:paraddi.s@northeastern.edu)
-- **LinkedIn:** [Satish Mallikarjun Paraddi](https://www.linkedin.com/in/satish-mallikarjun-paraddi)
-- **Phone:** +1 857-269-0803
+**Demo (GIF):**  
+![Expertease Demo](./assets/expertease-demo.gif)
 
-## Interests
+**What I built:**  
+- Entire React frontend  
+- Component architecture + routing  
+- Authentication + user state  
+- Expert booking workflow  
+- Full API integration  
 
-- Learning about foster care
-- Cooking
-- Trekking
+---
+
+# 🏥 Saayam For All — Volunteer Platform  
+📌 Microservices • React • Spring Boot • AWS
+
+**What I built:**  
+- Multilingual UI  
+- Admin dashboards  
+- Kafka event flows  
+- Deployed services on AWS EKS  
+
+---
+
+# 🐾 Additional Projects  
+- **PetConnect:** Social platform for pet owners  
+- **E-commerce Management System:** Inventory + orders + analytics  
+- **Messaging App:** WhatsApp Web-style real-time messaging  
+- **Event Scheduling Platform:** Microservices architecture  
+
+---
+
+# 📜 Certifications  
+- **Google Cloud Associate Cloud Engineer**
+
+---
+
+# 📫 Contact  
+📧 Email: **paraddi.s@northeastern.edu**  
+🔗 LinkedIn: **Satish Mallikarjun Paraddi**  
+📱 Phone: **+1 857-269-0803**
+
+---
+
+# ❤️ Interests  
+Cooking • Gym • Trekking • Foster Care  
+I love building things, breaking things, and improving systems — in tech and in life.
