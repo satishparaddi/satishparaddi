@@ -23,10 +23,9 @@ Building intelligent systems with React, Python, LangGraph, and scalable cloud a
 ---
 
 # 💳 Verifi — Offline Peer-to-Peer Payment Verification  
-📌 Repo: https://github.com/abgneudev/verifi  
+📌 Repo: (https://github.com/satishparaddi/verifi) 
 
-**Demo:**  
-![Verifi Demo](./assets/verifi-demo.gif)
+
 
 **What I built:**  
 - Offline verification protocol (Bluetooth + QR exchange)  
@@ -40,8 +39,7 @@ Building intelligent systems with React, Python, LangGraph, and scalable cloud a
 📌 Repo: https://github.com/satishparaddi/MultiAgent-RAG  
 📹 Demo Video: https://drive.google.com/file/d/1t5IDI6mKTD-oxKhGdWrRxHmNsQs4JnjP/view  
 
-**Demo (GIF):**  
-![MultiAgent Demo](./assets/multiagent-demo.gif)
+
 
 **What I built:**  
 - LangGraph-based multi-agent orchestration  
@@ -56,8 +54,7 @@ Building intelligent systems with React, Python, LangGraph, and scalable cloud a
 📌 Repo: https://github.com/satishparaddi/ExpertEase  
 📹 Demo Video: https://drive.google.com/file/d/1Rc-XL6JkRQbcib-0-kT_aHwe7s2u3Sds/view  
 
-**Demo (GIF):**  
-![Expertease Demo](./assets/expertease-demo.gif)
+
 
 **What I built:**  
 - Entire React frontend  
