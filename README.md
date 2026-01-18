@@ -4,8 +4,8 @@
 Building intelligent systems with React, Python, LangGraph, and scalable cloud architectures.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/satish-mallikarjun-paraddi/)
-[![Email](https://img.shields.io/badge/Email-paraddi.s%40northeastern.edu-red?style=flat&logo=gmail)](mailto:satishparaddi@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-paraddi.s%40northeastern.edu-red?style=flat&logo=gmail)](mailto:paraddi.s@northeastern.edu)
+[![Phone](https://img.shields.io/badge/Phone-%2B1%20857--269--0803-green?style=flat&logo=phone)](tel:+18572690803)
 
 ---
 
@@ -148,9 +148,19 @@ End-to-end expert consultation booking platform connecting users with industry p
 
 ## 📊 GitHub Stats
 
-![Satish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satishparaddi&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satishparaddi&layout=compact&theme=radical&hide_border=true)
+### >_ contribution activity
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=satishparaddi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satishparaddi&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+![Satish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satishparaddi&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satishparaddi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+</div>
 
 ---
 
