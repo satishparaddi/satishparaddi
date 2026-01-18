@@ -146,24 +146,6 @@ End-to-end expert consultation booking platform connecting users with industry p
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-### >_ contribution activity
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=satishparaddi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satishparaddi&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-![Satish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satishparaddi&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satishparaddi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</div>
-
----
-
 ## 🎯 What I'm Working On
 
 🔭 Currently building: **AI-powered code review system with LangGraph**  
