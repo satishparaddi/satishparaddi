@@ -4,8 +4,8 @@
 Building intelligent systems with React, Python, LangGraph, and scalable cloud architectures.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/satish-mallikarjun-paraddi/)
-[![Email](https://img.shields.io/badge/Email-paraddi.s%40northeastern.edu-red?style=flat&logo=gmail)](mailto:paraddi.s@northeastern.edu)
-[![Phone](https://img.shields.io/badge/Phone-%2B1%20857--269--0803-green?style=flat&logo=phone)](tel:+18572690803)
+[![Email](https://img.shields.io/badge/Email-paraddi.s%40northeastern.edu-red?style=flat&logo=gmail)](mailto:satishparaddi@gmail.com)
+
 
 ---
 
