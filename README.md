@@ -25,7 +25,7 @@ Building intelligent systems with React, Python, LangGraph, and scalable cloud a
 ## 💼 Work Experience
 
 ### Full Stack Developer @ Saayam For All  
-📌 *July 2025 - Present* • San Francisco, CA (Remote)  
+📌 *July 2025 - Present* • San Jose, CA (Remote)  
 - Built production multilingual request management system with React + Spring Boot microservices handling 1,000+ monthly state transitions, deployed on AWS EKS with Kafka event streaming
 - Designed REST APIs and coordinated cross-service schemas with 200+ tests, improving deployment reliability by 25% and reducing response times by 40%
 
